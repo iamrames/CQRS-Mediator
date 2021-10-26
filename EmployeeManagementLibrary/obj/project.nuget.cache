@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+/zqxeOjQvLc67XplQVxQ/VVBIU1corlh4hjMC8NVJNGKv3Oq0ufPZ2yhkyGQz7a0cpRG671WQBmWZlhnaj4A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Learning\\CQRS and Mediator\\EmloyeeManagementDemo\\EmployeeManagementLibrary\\EmployeeManagementLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raj Kumar Shah\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

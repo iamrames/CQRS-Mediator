@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "603c5176-a365-4a77-92a7-f395b91c3b9c": {
+      "ProjectGuid": "603c5176-a365-4a77-92a7-f395b91c3b9c",
+      "DisplayName": "EmloyeeManagement.API",
+      "ColorIndex": 0
+    },
+    "36cb2c30-b3cf-4a0c-8e7b-1209512ad2d5": {
+      "ProjectGuid": "36cb2c30-b3cf-4a0c-8e7b-1209512ad2d5",
+      "DisplayName": "EmployeeManagementLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

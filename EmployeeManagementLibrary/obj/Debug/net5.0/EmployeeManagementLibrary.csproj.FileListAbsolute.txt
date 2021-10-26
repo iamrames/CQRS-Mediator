@@ -1,0 +1,12 @@
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\bin\Debug\net5.0\EmployeeManagementLibrary.deps.json
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\bin\Debug\net5.0\EmployeeManagementLibrary.dll
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\bin\Debug\net5.0\ref\EmployeeManagementLibrary.dll
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\bin\Debug\net5.0\EmployeeManagementLibrary.pdb
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.csproj.AssemblyReference.cache
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.AssemblyInfoInputs.cache
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.AssemblyInfo.cs
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.dll
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\obj\Debug\net5.0\ref\EmployeeManagementLibrary.dll
+C:\Projects\Learning\CQRS and Mediator\EmloyeeManagementDemo\EmployeeManagementLibrary\obj\Debug\net5.0\EmployeeManagementLibrary.pdb
